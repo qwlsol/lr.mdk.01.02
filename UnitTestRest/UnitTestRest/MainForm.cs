@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UnitTestLR3
+namespace UnitTestRest
 {
     public partial class MainForm: Form
     {

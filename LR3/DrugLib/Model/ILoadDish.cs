@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RestaurantLibrary
+namespace DrugLib.Model
 {
-    public class Dish
+    public interface ILoadDish
     {
-        
+        Dictionary<string, List<Dish>> LoadDataFromCsv();
     }
 }
-

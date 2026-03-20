@@ -1,4 +1,4 @@
-﻿namespace UnitTestLR3
+﻿namespace UnitTestRest
 {
     partial class MainForm
     {
