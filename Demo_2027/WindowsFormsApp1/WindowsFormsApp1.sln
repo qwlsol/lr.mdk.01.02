@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37012.4 d17.14
+VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{4AA9A34A-6C29-4C09-AB9E-A159B2A938A5}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTesting", "DemoTesting\DemoTesting.csproj", "{76E3F426-D764-4149-9FD6-EC4D95424409}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoUIComponents", "ProductCard\DemoUIComponents.csproj", "{08BE4BAD-07EF-4A2C-84F3-183E5658302F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Photo", "Photo", "{A6083879-9393-403B-949E-5F62400C6F32}"
+	ProjectSection(SolutionItems) = preProject
+		..\IMG_KB_164811.png = ..\IMG_KB_164811.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
